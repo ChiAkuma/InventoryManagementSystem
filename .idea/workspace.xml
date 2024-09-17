@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a688908-9c9d-40cf-a3cf-aade2340bf77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mavenExecutorSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/fm/InventoryManagementSystem/InventoryManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +22,44 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="alpha-console" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ChiAkuma/InventoryManagementSystem.git",
-    "accountId": "f4eea921-5ed7-4c53-8121-9c925401870a"
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="2.0_alpha-console" />
+                    <option name="lastUsedInstant" value="1726561806" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="alpha-console" />
+                    <option name="lastUsedInstant" value="1726561805" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ChiAkuma/InventoryManagementSystem.git&quot;,
+    &quot;accountId&quot;: &quot;f4eea921-5ed7-4c53-8121-9c925401870a&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/22.0.2/javafx-fxml-22.0.2-sources.jar!/javafx/fxml/FXMLLoader.java" root0="SKIP_INSPECTION" />
   </component>
@@ -54,40 +75,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Programm starten.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Maven.InventoryManagement [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagement [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [clean...].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [deploy].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [org.openjfx:javafx-maven-plugin:0.0.8:jlink].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.InventoryManagementSystem [validate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.javafx:run.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.jlink.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Firef/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;H:/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;H:/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement/src/main/java/de/chiakuma/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.41724136&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Programm starten.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven.InventoryManagement [clean].executor": "Run",
+    "Maven.InventoryManagement [install].executor": "Run",
+    "Maven.InventoryManagementSystem [clean...].executor": "Run",
+    "Maven.InventoryManagementSystem [clean].executor": "Run",
+    "Maven.InventoryManagementSystem [compile].executor": "Run",
+    "Maven.InventoryManagementSystem [deploy].executor": "Run",
+    "Maven.InventoryManagementSystem [install].executor": "Run",
+    "Maven.InventoryManagementSystem [org.openjfx:javafx-maven-plugin:0.0.8:jlink].executor": "Run",
+    "Maven.InventoryManagementSystem [validate].executor": "Run",
+    "Maven.javafx:run.executor": "Run",
+    "Maven.jlink.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "2.0__alpha-console",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Firef/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement/src/main/java",
+    "last_opened_file_path": "H:/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement",
+    "onboarding.tips.debug.path": "H:/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement/src/main/java/de/chiakuma/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41724136",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="de.fm.UserInterface" />
@@ -181,6 +202,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725620408526</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version: 1.0-ALPHA_TERMINAL&#10;- Updated POM">
+      <option name="closed" value="true" />
+      <created>1726561724460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726561724460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version: 1.0-ALPHA_TERMINAL&#10;- Updated POM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version: 1.0-ALPHA_TERMINAL&#10;- Updated POM" />
   </component>
 </project>
