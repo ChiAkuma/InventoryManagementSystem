@@ -84,6 +84,7 @@
         </dependency>
 
         <!-- JavaFX modules -->
+        <!-- https://gluonhq.com/products/scene-builder/ -->
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
