@@ -1,4 +1,4 @@
-package de.fm.UserInterface;
+package de.fm.testing;
 
 public class RowID_Test {
 

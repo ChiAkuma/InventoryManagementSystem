@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a688908-9c9d-40cf-a3cf-aade2340bf77" name="Changes" comment="javafx testing stuff" />
+    <list default="true" id="3a688908-9c9d-40cf-a3cf-aade2340bf77" name="Changes" comment="javafx testing stuff">
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fm/testing/RowID_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fm/testing/RowID_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fm/testing/ThirdWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fm/testing/ThirdWindow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +80,7 @@
     "last_directory_selection": "C:/Users/Firef/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement/src/main/java",
     "last_opened_file_path": "H:/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement",
     "onboarding.tips.debug.path": "H:/Desktop/DAA/Umschulung - Fachinformatiker/Workspaces/Java/Projekte/InventoryManagement/src/main/java/de/chiakuma/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41724136",
     "settings.editor.selected.configurable": "preferences.pluginManager"

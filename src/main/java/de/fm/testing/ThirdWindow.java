@@ -11,7 +11,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
-import de.fm.UserInterface.RowID_Test;
+import de.fm.testing.RowID_Test;
 
 import java.io.File;
 import java.io.IOException;
