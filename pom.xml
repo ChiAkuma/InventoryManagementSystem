@@ -12,8 +12,9 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <main-class>de.fm.InventoryManagementSystem.InventoryManagementSystem</main-class>
-        <javafx-main-class>de.fm.Test.UserInterface.Test</javafx-main-class>
+        <!--<main-class>de.fm.InventoryManagementSystem.InventoryManagementSystem</main-class>-->
+        <main-class>de.fm.testing.Test</main-class>
+        <javafx-main-class>de.fm.testing.Test</javafx-main-class>
     </properties>
 
     <!-- Nur für das starten außerhalb von der Entiwcklungsumgebung gebraucht -->

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="oled" minHeight="-Infinity" minWidth="-Infinity" prefHeight="417.0" prefWidth="506.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.fm.testing.ThirdWindow">
+   <children>
+      <Button fx:id="hello" layoutX="29.0" layoutY="341.0" mnemonicParsing="false" onAction="#ollayclick" prefHeight="73.0" prefWidth="153.0" text="Hello World" AnchorPane.bottomAnchor="26.0" AnchorPane.leftAnchor="29.0" />
+      <TableView fx:id="tablefx" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#tablefx_clicked" prefHeight="400.0" prefWidth="506.0" AnchorPane.bottomAnchor="119.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <columns>
+          <TableColumn prefWidth="75.0" text="C1" />
+          <TableColumn prefWidth="75.0" text="C2" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
